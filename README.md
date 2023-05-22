@@ -11,17 +11,17 @@ The authors integrate it within the established Anchor optimization approach whi
 They evaluate this method on the coveted ICDAR-19 dataset (International Conference on Document Analysis and Recognition - 2019) which comprises of scanned document images containing tabular regions and achieve results surpassing those of many popular techniques. 
 They also apply this approach for the task of Table Detection and achieve results comparable to other established techniques.
 
-Below are the result images containing the detected cellular and tabular regions.
+* Below are the result images containing the detected cellular and tabular regions.
 
-Further work would consist extracting the detected image regions and apply OCR for extraction of data to Excel format.
+* Further work would consist extracting the detected image regions and apply OCR for extraction of data to Excel format.
 
-GIven code consists of sample Training, Evaluation and Image Based Detection ipnyb files.
+* Given code consists of sample Training, Evaluation and Image Based Detection ipnyb files.
+### Table Structure Recognition
+<img src="celldetresult.jpg" height="900" width="600">
 
-<img src="celldetresult.jpg" height="400">
-
-
-<img src="tabdetresult.jpg" height="400">
+### Table Detection
+<img src="tabdetresult.png" height="900" width="600">
 
 
 
-Weights and data can be found at following link:
+Weights and data can be found at following link: https://drive.google.com/drive/folders/1YAun6x49iWtAIRkM4z3J0PiHZr3NNbCS?usp=sharing
